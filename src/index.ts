@@ -1,4 +1,12 @@
 #!/usr/bin/env node
 import chalk from 'chalk';
+import figlet from 'figlet';
 
-console.log(chalk.red('This is a test'));
+function main() {
+  const text = figlet.textSync('Utilnek');
+
+  console.log(text);
+  console.log(chalk.bgRed(' BETA '));
+}
+
+main();

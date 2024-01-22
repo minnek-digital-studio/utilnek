@@ -46,6 +46,9 @@ devDependencies:
   '@semantic-release/release-notes-generator':
     specifier: ^12.1.0
     version: 12.1.0(semantic-release@23.0.0)
+  '@types/figlet':
+    specifier: ^1.5.8
+    version: 1.5.8
   '@types/inquirer':
     specifier: ^9.0.7
     version: 9.0.7
@@ -977,6 +980,10 @@ packages:
 
   /@types/estree@1.0.5:
     resolution: {integrity: sha512-/kYRxGDLWzHOB7q+wtSUQlFrtcdUccpfy+X+9iMBpHK8QLLhx2wIPYuS5DYtR9Wa/YlZAbIovy7qVdB1Aq6Lyw==}
+    dev: true
+
+  /@types/figlet@1.5.8:
+    resolution: {integrity: sha512-G22AUvy4Tl95XLE7jmUM8s8mKcoz+Hr+Xm9W90gJsppJq9f9tHvOGkrpn4gRX0q/cLtBdNkWtWCKDg2UDZoZvQ==}
     dev: true
 
   /@types/inquirer@9.0.7:
