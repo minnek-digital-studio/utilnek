@@ -6,7 +6,7 @@ function main() {
   const text = figlet.textSync('Utilnek');
 
   console.log(text);
-  console.log(chalk.bgRed(' BETA '));
+  console.log(chalk.bgRed(' BETA VERSION '));
 }
 
 main();
