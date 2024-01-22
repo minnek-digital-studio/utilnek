@@ -52,4 +52,4 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_ACCESS_TOKEN }}
           NODE_ENV: 'production'
 
-        run: pnpm semantic-release
+        run: pnpm release
