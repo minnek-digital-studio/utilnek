@@ -17,7 +17,6 @@ module.exports = {
     'footer-max-line-length': [2, 'always', 250],
     'header-max-length': [2, 'always', 100],
     'scope-case': [2, 'always', 'lower-case'],
-    'scope-enum': [2, 'always', ['backend', 'frontend', 'rundotenv', 'tsconfig', 'config', 'deploy', 'types']],
     'subject-case': [2, 'never', ['start-case', 'pascal-case']],
     'subject-empty': [2, 'never'],
     'subject-full-stop': [2, 'never', '.'],
