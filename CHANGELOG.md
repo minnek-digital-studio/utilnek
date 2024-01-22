@@ -1,5 +1,12 @@
 
 
+# [0.2.0](https://github.com/minnek-digital-studio/utilnek/compare/0.1.0...0.2.0) (2024-01-22)
+
+
+### Features
+
+* enhance console log message in main function ([8d3340e](https://github.com/minnek-digital-studio/utilnek/commit/8d3340ef3a2e6725f51c27dd43b68ef46a373a9e))
+
 # 0.1.0 (2024-01-22)
 
 
